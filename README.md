@@ -1,16 +1,16 @@
-### Hi there 👋
+### Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="22" height="22" />, seja bem-vindo!
 
-<!--
-**adairjuneoaf/adairjuneoaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://raw.githubusercontent.com/adairjuneoaf/adairjuneoaf/main/logo_vetores.png" width="64" /> | **Founder e CEO da Prisma Systems Technology** - Empresa dedicada ao desenvolvimento de aplicações e ferramentas com novas tecnologias, com objetivo de solucionar problemas e prestar serviços de qualidade!
 
-Here are some ideas to get you started:
+- 🔭 Atualmente estou trabalhando como **freelancer Full-Stack**.
+- 🌱 Atualmente estou aprendendo **novas tecnologias para desenvolvimento WEB**.
+- 👯 Estou procurando colaborar em **desenvolvimento de projetos junto aos meus amigos**.
+- 🤔 Estou procurando ajuda para **me tornar ainda melhor naquilo que amo fazer** 💙.
+- 📫 Como chegar até mim: Sinta-se a vontade para entrar em contato da maneira **mais fácil para você**!
+- ⚡ Curiosidade... não gosto de torradas cortads na diagonal 🙃.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#html #css #js #react-js #react-native #next-js #java #python #oracle #sql
+
+Encoding the future! 🤘🏻👨🏻‍💻
+
+#### Obrigado por me visitar! <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="30" height="30" />
