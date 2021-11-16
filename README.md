@@ -1,6 +1,6 @@
-### Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="22" height="22" />, seja bem-vindo!
+### Hi/Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="22" height="22" />, seja bem-vindo!
 
-<img src="https://raw.githubusercontent.com/adairjuneoaf/adairjuneoaf/main/logo_vetores.png" width="64" /> | **Founder e CEO da Prisma Systems Technology** - Empresa dedicada ao desenvolvimento de aplicações e ferramentas com novas tecnologias, com objetivo de solucionar problemas e prestar serviços de qualidade!
+<img src="https://raw.githubusercontent.com/adairjuneoaf/adairjuneoaf/main/logo_vetores.png" width="64" /> | **Founder & CTO of Prisma Systems Technology** - Empresa dedicada ao desenvolvimento de aplicações e ferramentas com novas tecnologias, com objetivo de solucionar problemas e prestar serviços de qualidade!
 
 - 🔭 Atualmente estou trabalhando como **freelancer Full-Stack**.
 - 🌱 Atualmente estou aprendendo **novas tecnologias para desenvolvimento WEB**.
