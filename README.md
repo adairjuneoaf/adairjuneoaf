@@ -1,15 +1,18 @@
 ### Hi/Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="22" height="22" />, seja bem-vindo!
 
-<img src="https://raw.githubusercontent.com/adairjuneoaf/adairjuneoaf/main/logo_vetores.png" width="64" /> | **Founder & CTO of Prisma Systems Technology** - Empresa dedicada ao desenvolvimento de aplicações e ferramentas com novas tecnologias, com objetivo de solucionar problemas e prestar serviços de qualidade!
+<img src="https://raw.githubusercontent.com/adairjuneoaf/adairjuneoaf/main/logo_vetores.png" width="64" /> | **Founder & CTO of Prisma Systems Technology** - Empresa dedicada ao desenvolvimento de aplicações e ferramentas com novas tecnologias. O nosso objetivo é solucionar problemas e prestar os melhores serviços!
 
-- 🔭 Atualmente estou trabalhando como **freelancer Full-Stack**.
-- 🌱 Atualmente estou aprendendo **novas tecnologias para desenvolvimento WEB**.
-- 👯 Estou procurando colaborar em **desenvolvimento de projetos junto aos meus amigos**.
-- 🤔 Estou procurando ajuda para **me tornar ainda melhor naquilo que amo fazer** 💙.
+- 🔭 Atualmente estou trabalhando como **freelance developer**.
+- 🌱 Atualmente estou aprendendo **React, TypeScript and NodeJS**.
+- 👯 Estou procurando colaborar em **desenvolvimento de projetos e ajuda à comunidade**.
 - 📫 Como chegar até mim: Sinta-se a vontade para entrar em contato da maneira **mais fácil para você**!
 - ⚡ Curiosidade... não gosto de torradas cortads na diagonal 🙃.
 
-#html #css #js #react-js #react-native #next-js #java #python #oracle #sql
+Por favor, visite o meu portfólio, lá você encontra alguns dos meus projetos e pode me conhecer ainda mais.
+
+http://portfolio.prismasystems.com.br/
+
+#html #css #js #type-script #react-js #react-native #next-js #java #python #oracle #sql
 
 Encoding the future! 🤘🏻👨🏻‍💻
 
