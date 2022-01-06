@@ -10,7 +10,7 @@
 
 Por favor, visite o meu portfólio, lá você encontra alguns dos meus projetos e pode me conhecer ainda mais.
 
-http://portfolio.prismasystems.com.br/
+https://portfolio-adairjuneo.vercel.app
 
 #html #css #js #type-script #react-js #react-native #next-js #java #python #oracle #sql
 
