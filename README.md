@@ -1,6 +1,6 @@
 ### Hi/Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="22" height="22" />, seja bem-vindo!
 
-<img src="https://raw.githubusercontent.com/adairjuneoaf/adairjuneoaf/main/logo_vetores.png" width="64" /> | **Fundador da StartUp Prisma Systems Technology** - Empresa dedicada ao desenvolvimento de aplicações e ferramentas com novas tecnologias. O nosso objetivo é solucionar problemas e prestar os melhores serviços!
+<img src="https://raw.githubusercontent.com/adairjuneoaf/adairjuneoaf/main/logo_prisma_systems.svg" width="96" /> | **Fundador da StartUp Prisma Systems Technology** - Empresa dedicada ao desenvolvimento de aplicações e ferramentas com novas tecnologias. O nosso objetivo é solucionar problemas e prestar os melhores serviços!
 
 - 🔭 Atualmente estou trabalhando como **freelance developer**.
 - 🌱 Atualmente estou aprendendo **React, TypeScript, NodeJS and NextJS**.
