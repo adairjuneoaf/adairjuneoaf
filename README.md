@@ -9,6 +9,6 @@ Me chamo Adair Juneo, sou desenvolvedor desde 2020, a partir de então tenho bus
 
 #html #css #javascript #typescript #react-js #react-native #next-js #nest-js #express #oracle #sql #git #docker #postgres
 
-Coding the future! 🤘🏻👨🏻‍💻
+~ "Coding" the future! 🤘🏻👨🏻‍💻
 #### Obrigado pela visita! 
 <img src="https://github.com/adairjuneoaf/adairjuneoaf/assets/88504998/6ec6c455-cbab-43d3-a0b0-25d410744540" width="96" height="96" />
